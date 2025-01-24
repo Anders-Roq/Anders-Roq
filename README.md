@@ -4,7 +4,8 @@ Meu nome é Marcelo.
 Atualmente trabalhando para melhorar minhas habilidades em programação.
 
 - 🌱 Aprendendo: Java e Python.
-- 
+
+GitHub Achievements:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anders-Roq&theme=onedark)](https://github.com/Anders-Roq/github-profile-trophy)
 
 
