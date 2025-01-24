@@ -1,11 +1,11 @@
-## Hi there 👋
+## Olá 👋
 
-Meu nome é Marcelo.
-Atualmente trabalhando para melhorar minhas habilidades em programação.
+Meu nome é Marcelo.<br/>
+Atualmente estou trabalhando para melhorar minhas habilidades em programação, devagar e topando muito, mas tentando.
 
-- 🌱 Aprendendo: Java e Python.
+- :computer: Aprendendo: Java e Python.
 
-GitHub Achievements:
+:octocat: GitHub Achievements:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anders-Roq&theme=onedark)](https://github.com/Anders-Roq/github-profile-trophy)
 
 
