@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anders-Roq&theme=onedark)](https://github.com/Anders-Roq/github-profile-trophy)
+
+
+
 <!--
 **Anders-Roq/Anders-Roq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
