@@ -1,12 +1,38 @@
-## Olá 👋
+## Introdução
+<h3 align="left"> Olá 👋, meu nome é Marcelo.<br/></h3>
+<h3 align="left">Atualmente estou trabalhando para melhorar minhas habilidades em programação focado em backend, devagar e topando muito, mas tentando.</h3>
 
-Meu nome é Marcelo.<br/>
-Atualmente estou trabalhando para melhorar minhas habilidades em programação, devagar e topando muito, mas tentando.
+## Atualmente
+- 🔭 Melhorando Java, Python.
+- 🌱 Aprendendo API REST, Spring Boot e Fundamentos de IA.
 
-- :computer: Aprendendo: Java e Python.
-
-:octocat: GitHub Achievements:
+## Sobre Mim
+- Estudante de Analise e Desenvolvimento de Sistemas.
+- Interessado em desenvolviment backend, não muito em frontend, pois sofro bastante com css.
+- Buscando novas oportunidades, conexões e expandir meu conhecimento.
+- 
+- ⚡ GitHub Achievements:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anders-Roq&theme=onedark)](https://github.com/Anders-Roq/github-profile-trophy)
+
+
+## Linguagens e Ferramentas
+<div align="left">
+<code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
+<img width="12"/>
+<code><img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  /></code>
+<img width="12"/>
+<code><img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  /></code>
+<img width="12"/>  
+<code><img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  /></code>
+<img width="12"/>
+<code><img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  /></code>
+<img width="12"/>
+<code><img src="https://skillicons.dev/icons?i=idea" height="30" alt="idea logo"  /></code>
+<img width="12"/>   
+</div>
+
+
+
 
 
 
