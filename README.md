@@ -1,40 +1,35 @@
-## Introdução
-<h3 align="left"> Olá 👋, meu nome é Marcelo.<br/></h3>
-<h3 align="left">Atualmente estou trabalhando para melhorar minhas habilidades em programação focado em backend.</h3>
+# Olá, sou o Marcelo 👋
 
-## Atualmente
-- 🔭 Melhorando Java, Python.
-- 🌱 Aprendendo API REST, Spring Boot e Fundamentos de IA.
+Desenvolvedor Back-End em formação, com foco em **Java** e **Python**.
+Cursando Análise e Desenvolvimento de Sistemas no **IFPE** e certificado pelo programa **Oracle ONE (Back-End)**.
 
-## Sobre Mim
-- Estudante de Analise e Desenvolvimento de Sistemas.
-- Interessado em desenvolviment backend, automação.
-- Buscando novas oportunidades, conexões e expandir meu conhecimento.
-- 
-- ⚡ GitHub Achievements:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anders-Roq&theme=onedark)](https://github.com/Anders-Roq/github-profile-trophy)
+## 🛠️ Tecnologias & Ferramentas
 
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-## Linguagens e Ferramentas
-<div align="left">
-<code><img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  /></code>
-<img width="12"/>
-<code><img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  /></code>
-<img width="12"/>
-<code><img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  /></code>
-<img width="12"/>  
-<code><img src="https://skillicons.dev/icons?i=javascript" height="30" alt="javascript logo"  /></code>
-<img width="12"/>
-<code><img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  /></code>
-<img width="12"/>
-<code><img src="https://skillicons.dev/icons?i=idea" height="30" alt="idea logo"  /></code>
-<img width="12"/>   
-</div>
+## 📌 Projetos em Destaque
 
+| Projeto | Descrição | Tecnologia |
+|---|---|---|
+| [ClinicaVeterinaria](https://github.com/Anders-Roq/ClinicaVeterinaria) | Sistema de gerenciamento de clínica veterinária com POO | Java |
+| [SimplesBanco](https://github.com/Anders-Roq/SimplesBanco) | Simulação de sistema bancário com operações de conta | Python |
+| [EstruturaDeDados](https://github.com/Anders-Roq/EstruturaDeDados) | Implementações de listas, pilhas e filas | Java |
 
+## 📚 Atualmente estudando
 
+- Spring Boot & REST API
+- Google Cybersecurity Certificate
 
+## 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelo-pereira)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcelopereira.tech@gmail.com)
 
 <!--
 **Anders-Roq/Anders-Roq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
