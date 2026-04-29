@@ -1,6 +1,6 @@
 ## Introdução
 <h3 align="left"> Olá 👋, meu nome é Marcelo.<br/></h3>
-<h3 align="left">Atualmente estou trabalhando para melhorar minhas habilidades em programação focado em backend, devagar e topando muito, mas tentando.</h3>
+<h3 align="left">Atualmente estou trabalhando para melhorar minhas habilidades em programação focado em backend.</h3>
 
 ## Atualmente
 - 🔭 Melhorando Java, Python.
@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 - Estudante de Analise e Desenvolvimento de Sistemas.
-- Interessado em desenvolviment backend, não muito em frontend, pois sofro bastante com css.
+- Interessado em desenvolviment backend, automação.
 - Buscando novas oportunidades, conexões e expandir meu conhecimento.
 - 
 - ⚡ GitHub Achievements:
