@@ -20,6 +20,7 @@ Cursando Análise e Desenvolvimento de Sistemas no **IFPE** e certificado pelo p
 | [ClinicaVeterinaria](https://github.com/Anders-Roq/ClinicaVeterinaria) | Sistema de gerenciamento de clínica veterinária com POO | Java |
 | [SimplesBanco](https://github.com/Anders-Roq/SimplesBanco) | Simulação de sistema bancário com operações de conta | Python |
 | [EstruturaDeDados](https://github.com/Anders-Roq/EstruturaDeDados) | Implementações de listas, pilhas e filas | Java |
+| [CampSolidarium](https://github.com/Anders-Roq/Camp-Solidarium) |Sistema de gerenciamento de Campanhas para ONGS| Java+Servlets+JSP+HTML+CSS |
 
 ## 📚 Atualmente estudando
 
