@@ -20,8 +20,8 @@ Cursando Análise e Desenvolvimento de Sistemas no **IFPE** e certificado pelo p
 | [ClinicaVeterinaria](https://github.com/Anders-Roq/ClinicaVeterinaria) | Sistema de gerenciamento de clínica veterinária com POO | Java |
 | [SimplesBanco](https://github.com/Anders-Roq/SimplesBanco) | Simulação de sistema bancário com operações de conta | Python |
 | [EstruturaDeDados](https://github.com/Anders-Roq/EstruturaDeDados) | Implementações de listas, pilhas e filas | Java |
-| [PetSaude](https://github.com/Anders-Roq/PetSaude.git) |Aplicativo de acompanhamento de vacinas, rotinas e consutas veterinárias de seus pets| Kotlin|
-| | | |
+| [PetSaude](https://github.com/Anders-Roq/PetSaude.git) | Aplicativo de acompanhamento de vacinas, rotinas e consutas veterinárias de seus pets, projeto acadêmico| Kotlin|
+| [MediFlow](https://github.com/Anders-Roq/MediFlow.git) | Sistema de gerenciamento de consultas medicas de uma clinica, projeto acadêmico| Java+SpringBoot+SpringWeb+SpringJDBC+Thymeleaf+PostgreSQL|
 
 ## 📚 Atualmente estudando
 
