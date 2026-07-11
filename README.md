@@ -22,6 +22,7 @@ Cursando Análise e Desenvolvimento de Sistemas no **IFPE** e certificado pelo p
 | [EstruturaDeDados](https://github.com/Anders-Roq/EstruturaDeDados) | Implementações de listas, pilhas e filas | Java |
 | [PetSaude](https://github.com/Anders-Roq/PetSaude.git) | Aplicativo de acompanhamento de vacinas, rotinas e consutas veterinárias de seus pets, projeto acadêmico| Kotlin|
 | [MediFlow](https://github.com/Anders-Roq/MediFlow.git) | Sistema de gerenciamento de consultas medicas de uma clinica, projeto acadêmico| Java+SpringBoot+SpringWeb+SpringJDBC+Thymeleaf+PostgreSQL|
+|[CampSolidarium](https://github.com/Anders-Roq/CampSolidarium.git)| Sistema de gerenciamento de campanhas de ongs, projeto acadêmico| Java+JSP+Scriptlets+HTML+CSS|
 
 ## 📚 Atualmente estudando
 
